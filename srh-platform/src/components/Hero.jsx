@@ -2,9 +2,9 @@ import { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
 
 import CountdownTimer from "./CountdownTimer";
-import patCummins from "../assets/players/pat-cummins.jpg";
-import travisHead from "../assets/players/travis-head.jpg";
-import abhishekSharma from "../assets/players/abhishek-sharma.jpg";
+import patCummins from "../assets/players/pat-cummins.png";
+import travisHead from "../assets/players/travis-head.png";
+import abhishekSharma from "../assets/players/abhishek-sharma.png";
 
 const SLIDES = [
   {
