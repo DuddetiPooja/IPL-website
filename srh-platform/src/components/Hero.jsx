@@ -6,10 +6,6 @@ import patCummins from "../assets/players/pat-cummins.jpg";
 import travisHead from "../assets/players/travis-head.jpg";
 import abhishekSharma from "../assets/players/abhishek-sharma.jpg";
 
-import patCummins from "../assets/players/pat-cummins.jpg";
-import travisHead from "../assets/players/travis-head.jpg";
-import abhishekSharma from "../assets/players/abhishek-sharma.jpg";
-
 const SLIDES = [
   {
     eyebrow: "OUR CAPTAIN",
