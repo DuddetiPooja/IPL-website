@@ -12,7 +12,7 @@ const SLIDES = [
     pill: "+ CAPTAIN",
     title: "Pat Cummins. Leads From The Front.",
     sub: "The Australian World Cup-winning captain inspires Sunrisers Hyderabad with fearless leadership, precision pace, and unmatched determination.",
-    image: "/players/pat-cummins.jpg",
+    image: "/players/pat-cummins.png",
     overlay:
       "linear-gradient(100deg, rgba(7,18,10,0.97) 20%, rgba(7,15,10,0.55) 55%, rgba(7,15,10,0.15) 100%)",
     primary: { label: "View Profile", to: "/squad/pat-cummins" },
@@ -24,7 +24,7 @@ const SLIDES = [
     pill: "+ BATSMAN",
     title: "Travis Head. Fearless Cricket.",
     sub: "An explosive opening batter capable of changing the course of a match in just a few overs with fearless stroke play.",
-    image: "/players/travis-head.jpg",
+    image: "/players/travis-head.png",
     overlay:
       "linear-gradient(100deg, rgba(7,18,10,0.97) 20%, rgba(7,15,10,0.55) 55%, rgba(7,15,10,0.15) 100%)",
     primary: { label: "View Profile", to: "/squad/travis-head" },
@@ -36,7 +36,7 @@ const SLIDES = [
     pill: "+ ALL-ROUNDER",
     title: "Abhishek Sharma. Future Of SRH.",
     sub: "A fearless young all-rounder delivering explosive batting, useful spin bowling, and electrifying performances for the Orange Army.",
-    image: "/players/abhishek-sharma.jpg",
+    image: "/players/abhishek-sharma.png",
     overlay:
       "linear-gradient(100deg, rgba(7,18,10,0.97) 20%, rgba(7,15,10,0.55) 55%, rgba(7,15,10,0.15) 100%)",
     primary: { label: "View Profile", to: "/squad/abhishek-sharma" },
